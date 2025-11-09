@@ -69,7 +69,6 @@ See the included documentation files for detailed setup and usage instructions:
 
 ## ⚠️ Important Notes
 
-- This code is extracted from the AutoBlaze project
 - Requires a valid Meta Developer App with appropriate permissions
 - Webhook URLs must be publicly accessible (use ngrok for local development)
 - Rate limits apply to Meta Graph API calls
